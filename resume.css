@@ -1,0 +1,37 @@
+*{
+}
+
+.flex-container  {
+    display: flex;
+    padding: 30px;
+}
+.header-name {
+    width: 300px;
+} 
+h2 {
+    color: blue;
+}
+.image-profile {
+    height: 172px;
+    width: 172px;
+    border: 8px solid blue;
+    padding: 10px;
+}
+.header-personal-information {
+    width: 660px;
+    margin-top: 57px;
+    text-align: justify;
+}
+.skills {
+    position: absolute;
+    left: 1087px;
+    width: 259px;
+    top: 101px;
+}
+.main {
+    width: 960px;
+    padding: 30px;
+}
+.profile-description {
+    font-weight: 800;
+}
